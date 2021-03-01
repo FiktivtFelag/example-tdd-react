@@ -1,9 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9dacac9c-4832-4891-ba12-2371f7297834" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/MyJumpComponent.spec.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/MyJumpComponent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/audio/AudioContext.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/audio/AudioProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/audio/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/audio/test/AudioSystemBuilder.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/audio/test/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/audio/types/AudioPlay.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/audio/useAudio.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/transform/TransformContext.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/transform/TransformProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/transform/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/transform/types/Transform.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/transform/types/Vector2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/transform/types/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/transform/useTransform.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/transform/utils/CalculateCssTransform.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/game-test/transform/utils/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/mocking/global-mocking/__mocks__/fs.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/mocking/global-mocking/file-reader.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/mocking/global-mocking/file-reader.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/mocking/mock-interface/IUserLoader.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/mocking/mock-interface/UserLoader.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/mocking/mock-interface/UserLoader.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/mocking/mock-interface/UserLoaderBuilder.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myActivateViewOnRun" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JiraServerManager">
+    <selected>-1</selected>
+    <servers />
+  </component>
+  <component name="ProjectId" id="1p5WTWwxMp6BsduksStjsYEU7ub" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/examples/game-test/transform/types" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="All Tests" type="JavaScriptTestRunnerJest" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <jest-options value="--watch" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dacac9c-4832-4891-ba12-2371f7297834" name="Default Changelist" comment="" />
+      <created>1614473440169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614473440169</updated>
+      <workItem from="1614473441305" duration="4303000" />
+      <workItem from="1614477803005" duration="15758000" />
+      <workItem from="1614563567247" duration="31000" />
+      <workItem from="1614563671388" duration="991000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1614473488275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614473488275</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614474007286">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="104" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1614474007286" />
+    <state x="304" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614561177655">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="345" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1614561177655" />
+    <state x="453" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1614551513550">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="453" y="259" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1614551513550" />
+    <state width="1238" height="280" key="GridCell.Tab.0.bottom" timestamp="1614563562076">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1238" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1614563562076" />
+    <state width="1238" height="280" key="GridCell.Tab.0.center" timestamp="1614563562075">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1238" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1614563562075" />
+    <state width="1238" height="280" key="GridCell.Tab.0.left" timestamp="1614563562075">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1238" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1614563562075" />
+    <state width="1238" height="280" key="GridCell.Tab.0.right" timestamp="1614563562076">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1238" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1614563562076" />
+    <state x="141" y="175" key="SettingsEditor" timestamp="1614475020752">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="141" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1614475020752" />
+    <state x="240" y="276" key="Vcs.Push.Dialog.v2" timestamp="1614473492606">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="240" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1614473492606" />
+    <state x="305" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1614562754067">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="305" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1614562754067" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/example_tdd_react$All_Tests.info" NAME="All Tests Coverage Results" MODIFIED="1614564692164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
